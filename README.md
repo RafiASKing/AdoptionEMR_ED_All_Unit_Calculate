@@ -1,0 +1,1 @@
+This notebook is built to calculate adoption metrics at the units (hospital branches) level and aggregated for the entire network. It is intentionally lightweight (non-dashboard) and can be run as-is in any Jupyter environment.
