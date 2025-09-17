@@ -1,20 +1,17 @@
+config.py
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
 *.csv
 *.xls
 *.xlsx
 *.xlsm
 *.xlsb
 *.ods
-
-# Ignore temporary/lock files created by Excel/Office
 ~$*
 .~lock.*
-
-# macOS and editor temp files
 .DS_Store
 ._*
-
-# If these files are already tracked, untrack them with:
-#   git rm --cached <file>
-# or to remove all currently tracked CSV/XLSX:
-#   git rm --cached *.csv *.xlsx *.xls
-Discharge_8Sep.csv
