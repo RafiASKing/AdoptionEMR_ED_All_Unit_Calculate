@@ -12,7 +12,7 @@ custom_order = [
     'SHXX','SHXX','SHXX','SHXX','SHXX','SHXX','SHXX','SHXX','SHXX'
 ]
 # Change this one variable only:
-file_tag = "8Sep"  # e.g. "8Sep", "15Oct", etc.
+file_tag = "1-31Aug"  # e.g. "8Sep", "15Oct", etc.
 
 base_folder = r"C:\\Users\\YourUser\\Projects\\Active\\semi_work\\AdoptionEMR_ED_All_Unit_Calculate"
 
